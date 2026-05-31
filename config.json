@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderfetch",
+        "uuid": 18569550,
+        "checksum": "vj16yk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
